@@ -1,0 +1,45 @@
+4
+Bob Willikans
+70
+70
+20
+20
+Fists
+1
+1
+0
+0
+
+Barry Journ
+150
+150
+5
+5
+Fists
+1
+1
+0
+0
+
+Mary Jane
+200
+200
+0
+0
+Fists
+1
+1
+0
+0
+
+John Smith
+70
+70
+20
+20
+Fists
+1
+1
+0
+0
+

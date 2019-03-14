@@ -1,0 +1,64 @@
+9
+Straw Wand
+5
+8
+4
+50
+0
+
+Weak Wand
+1
+10
+2
+100
+0
+
+Plastic wand
+20
+30
+5
+150
+0
+
+Wooden wand
+30
+40
+10
+250
+0
+
+Worn wand
+1
+80
+20
+350
+0
+
+Aprentice's Staff
+10
+60
+10
+400
+0
+
+Great wand
+40
+80
+30
+500
+0
+
+Dice wand
+1
+300
+40
+1000
+0
+
+Great Staff
+40
+100
+40
+1500
+0
+

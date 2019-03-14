@@ -1,0 +1,19 @@
+Jerry Johnson
+100
+10
+
+James Williams
+500
+0
+
+Bill Sanders
+300
+20
+
+Bobby Davis
+200
+100
+
+Taylor Moore
+50
+200

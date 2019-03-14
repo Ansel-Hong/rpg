@@ -1,0 +1,34 @@
+3
+Sophie Carson
+100
+100
+5
+5
+Morning Star
+25
+50
+0
+1
+
+Bob Jones
+122
+200
+5
+5
+Fists
+1
+1
+0
+0
+
+Jim Muskers
+70
+150
+100
+150
+Giant Mace
+1
+70
+0
+1
+
